@@ -8,8 +8,8 @@
   "description": "Aplikasi kalkulator sederhana berbasis web untuk menghitung cepat.",
   "icons": [
     {
-      "src": "https://www.pwabuilder.com/assets/icon-512.png",
-      "sizes": "512x512",
+      "src": "icon.png",
+      "sizes": "192x192",
       "type": "image/png"
     }
   ]
